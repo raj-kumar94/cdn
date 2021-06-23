@@ -84,4 +84,4 @@ function initStreamoidSDK() {
 
 initStreamoidSDK();
 
-$('.medium-up--one-quarter').css('width', '50%')
+//$('.medium-up--one-quarter').css('width', '50%')
